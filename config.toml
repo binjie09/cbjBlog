@@ -1,0 +1,42 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "陈彬杰的博客"
+theme = "hugo-lamp"
+
+[params]
+  subtitle = "第一周周末作业。。。"
+  author = "Binjie Chen"
+  logo = "/img/avatar.jpg"
+  description = "第一周周末作业。。。"
+  paginate = 10
+
+  # Publisher
+  ## adsensePublisher = "ca-pub-XXX"    # Required if you want to include Google Adsense
+  adsenseSlot = "XXX"                   # Required slot to display ads
+  adsenseSlotSticky = "XXX"             # Enables sticky ads feature, value maybe the same with adsenseSlot, remove if you don't want display sticky ads
+
+  # SEO configs
+  seotitle = "Hugo Blog Title (SEO Version)"
+  googleSiteVerification = "google_site_verification_code"    # Google Webmaster
+  msValidate = "bing_site_verification_code"                  # Bing Webmaster
+
+  # Social networks
+  email = "binjie09@gmail.com"
+  github = "binjie09"
+  twitter = "twitter_username"
+  linkedin = "linkedin_username"
+  facebook = "facebook_username"
+  google = "binjie09"
+  instagram = "instagram_username"
+  youtube = "youtube_username"
+  dribbble = "dribbble_username"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 1
+  identifier = "tags"
+  url = "/tags/"

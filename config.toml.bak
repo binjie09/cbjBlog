@@ -1,0 +1,28 @@
+# Base config for your site
+baseURL = "http://localhost:1313/"      # Your domain
+languageCode = "en-us"
+title = "Hugo Binjie Chen"                     # Default site title
+theme = "hugo-lamp"
+[[menu.main]]
+  name = "Hugo"
+  weight = 1
+  identifier = "hugo"
+  url = "/hugo/"
+[[menu.main]]
+  name = "AMP Project"
+  weight = 2
+  identifier = "amp"
+  url = "/amp/"
+[[menu.main]]
+  name = "Tags"
+  weight = 3
+  identifier = "tags"
+  url = "/tags/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Social networks
+  email = "binjie09@gmail.com"
+  github = "binjie09"
