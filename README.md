@@ -1,8 +1,10 @@
 # cbjBlog
 
-现在完成情况，如果安装了hugo的话
-使用`hugo server`来运行 打开127.0.0.1:1313查看
-
+使用说明
+    git clone https://github.com/binjie09/cbjBlog.git
+    cd cbjBlog
+    sh build.sh
+    sh run.sh
 
 ## 作业
 
