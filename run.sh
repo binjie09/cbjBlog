@@ -1,0 +1,1 @@
+docker run -p 1313:1313 -d cbjblog:v0.1
