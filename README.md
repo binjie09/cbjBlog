@@ -1,6 +1,19 @@
 # cbjBlog
 
-使用说明
+dockertoolbox用户使用说明
+
+```bash
+git clone https://github.com/binjie09/cbjBlog.git
+cd cbjBlog
+sh build.sh
+sh run.sh 192.168.99.100
+```
+
+其中192.168.99.100是docker-machine的ip
+然后访问这个ip就可以了
+
+docker用户说明
+运行后直接访问localhost:1313即可
 
 ```bash
 git clone https://github.com/binjie09/cbjBlog.git
@@ -8,6 +21,8 @@ cd cbjBlog
 sh build.sh
 sh run.sh
 ```
+
+
 
 ## 作业
 
