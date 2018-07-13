@@ -1,10 +1,13 @@
 # cbjBlog
 
 使用说明
-    git clone https://github.com/binjie09/cbjBlog.git
-    cd cbjBlog
-    sh build.sh
-    sh run.sh
+
+```bash
+git clone https://github.com/binjie09/cbjBlog.git
+cd cbjBlog
+sh build.sh
+sh run.sh
+```
 
 ## 作业
 
