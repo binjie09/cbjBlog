@@ -3,7 +3,6 @@ title: "Learn Git"
 date: 2018-07-13T15:11:58+08:00
 cover: "/img/cover.jpg"
 tag: "学习"
-draft: true
 ---
 
 # day2 git学习

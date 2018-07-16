@@ -3,7 +3,6 @@ title: "Es6学习"
 author: "Author Name"
 tags: ["tagA", "tagB"]
 date: 2018-07-13T15:58:28+08:00
-draft: true
 ---
 
 # es6、es7、es8学习（视频学习）

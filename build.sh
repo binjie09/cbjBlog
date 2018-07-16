@@ -1,0 +1,1 @@
+docker build -t cbjblog:v0.1 .
